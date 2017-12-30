@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository , a hidden git directory is created.
+This make the directory a git repository.
+You need to initialize to create a repository that helps in the tracking of your files.
